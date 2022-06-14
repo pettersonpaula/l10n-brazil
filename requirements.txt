@@ -1,0 +1,7 @@
+#num2words==0.5.9
+#openupgradelib==3.3.2
+#setuptools==52.0.0
+erpbrasil.base
+erpbrasil.assinatura
+pycep_correios
+workalendar
